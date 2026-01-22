@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: My Zhihu Filters
+! Homepage: https://github.com/<user>/<repo>
+! Expires: 1 days
+! Version: 2026.01.22
+! Minimum ABP version: 3.4 (WebExtensions)
+! Notes: This list block the zhihu login box.
+
+||static.zhihu.com/heifetz/7454.*.css$stylesheet,domain=zhihu.com
