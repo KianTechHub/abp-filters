@@ -1,6 +1,3 @@
-# abp-filters
-Adblock Plus filters
-
 [Adblock Plus] 订阅规则一键添加（GitHub 托管）
 
 这个仓库用于托管 Adblock Plus（ABP）自定义订阅规则列表。你可以用两种方式添加：
@@ -12,11 +9,18 @@ Adblock Plus filters
 
 ## 一键订阅（点击即可添加）
 
-> 如果浏览器拦截了自定义协议（`abp:`），请使用下方的“raw 订阅地址”手动添加。
+> 说明：很多浏览器会拦截 `abp:` 这种自定义协议链接，因此这里优先提供 ABP 官方的可点击订阅页（`https://subscribe.adblockplus.org/`）。
 
 - **Zhihu 规则订阅**：
 
+- **可点击订阅链接（推荐）**：
+
+`https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FKianTechHub%2Fabp-filters%2Fmain%2Fzhihu.txt&title=Zhihu%20Filters&requiresLocation=https%3A%2F%2Feasylist-downloads.adblockplus.org%2Feasylist.txt&requiresTitle=EasyList`
+
+- **abp:subscribe 协议链接（部分浏览器可用）**：
+
 `abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FKianTechHub%2Fabp-filters%2Fmain%2Fzhihu.txt&title=Zhihu%20Filters`
+
 ---
 
 ## raw 订阅地址（手动添加用）
