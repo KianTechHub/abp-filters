@@ -7,25 +7,9 @@
 
 ---
 
-## 一键订阅（点击即可添加）
+## 一键订阅（点击即可添加）- [Zhihu Filters](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FKianTechHub%2Fabp-filters%2Fmain%2Fzhihu.txt&title=Zhihu%20Filters)
 
-> 说明：很多浏览器会拦截 `abp:` 这种自定义协议链接，因此这里优先提供 ABP 官方的可点击订阅页（`https://subscribe.adblockplus.org/`）。
-
-- **Zhihu 规则订阅**：
-
-- **可点击订阅链接（推荐）**：
-
-`https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FKianTechHub%2Fabp-filters%2Fmain%2Fzhihu.txt&title=Zhihu%20Filters&requiresLocation=https%3A%2F%2Feasylist-downloads.adblockplus.org%2Feasylist.txt&requiresTitle=EasyList`
-
-- **abp:subscribe 协议链接（部分浏览器可用）**：
-
-`abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2FKianTechHub%2Fabp-filters%2Fmain%2Fzhihu.txt&title=Zhihu%20Filters`
-
----
-
-## raw 订阅地址（手动添加用）
-
-- `https://raw.githubusercontent.com/KianTechHub/abp-filters/main/zhihu.txt`
+## raw 订阅地址（手动添加用）- `https://raw.githubusercontent.com/KianTechHub/abp-filters/main/zhihu.txt`
 
 在 Adblock Plus 中添加路径（不同浏览器界面略有差异）：
 
