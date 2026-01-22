@@ -6,4 +6,4 @@
 ! Minimum ABP version: 3.4 (WebExtensions)
 ! Notes: This list block the zhihu login box.
 
-||static.zhihu.com/heifetz/7454.*.css$stylesheet,domain=zhihu.com
+||static.zhihu.com/heifetz/7454.*.css
