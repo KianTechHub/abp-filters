@@ -4,6 +4,10 @@
 ! Expires: 1 days
 ! Version: 2026.01.22
 ! Minimum ABP version: 3.4 (WebExtensions)
-! Notes: This list block the zhihu login box.
+! Notes: This list block some Web page window improve the experience of unlogged users.
 
+!--- Login rules ---!
 ||static.zhihu.com/heifetz/7454.*.*.css$stylesheet,domain=zhihu.com
+!
+!--- The login reminder window at the lower right corner rules ---!
+zhihu.com##.css-zr60jh
