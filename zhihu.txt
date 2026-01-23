@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: My Zhihu Filters
+! Title: Zhihu Filters
 ! Homepage: https://github.com/KianTechHub/abp-filters
 ! Expires: 1 days
 ! Version: 2026.01.22
