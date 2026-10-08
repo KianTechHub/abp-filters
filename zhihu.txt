@@ -10,6 +10,7 @@
 ||static.zhihu.com/heifetz/7454.*.*.css$stylesheet,domain=zhihu.com
 ||static.zhihu.com/heifetz/3175.*.*.css$stylesheet,domain=zhihu.com
 ||static.zhihu.com/heifetz/9399.*.*.css$stylesheet,domain=zhihu.com
+
 !
 !--- The login reminder window at the lower right corner rules ---!
 zhihu.com##.css-zr60jh
